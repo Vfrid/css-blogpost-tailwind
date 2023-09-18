@@ -6,7 +6,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        'sans': ['Proxima Nova', ...defaultTheme.fontFamily.sans],
+        inter: ["Inter", "Avenir", "Helvetica", "Arial", "sans-serif"],
       },
       dropShadow: {
         logo: "0 0 2em #646cffaa",
